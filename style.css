@@ -1,0 +1,224 @@
+
+.display{
+    display: flex;
+}
+.pargraph1{
+    font-family: New York Extra Large; 
+font-size: 54px;
+font-weight: 700;
+line-height: 54px;
+text-align: center;
+margin:50px
+
+}
+.pargraph2{
+    font-family: SF Mono;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: center;
+margin:0px 100px;
+}
+.img-fluid{
+width:100%
+}
+
+.line{
+    border:2px solid black;
+    margin-top:42px;
+}
+.dis{
+    display: flex;
+}
+.mir{
+    margin: 20px;
+}
+.pargraph3{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+margin-top: 58px;
+
+}
+.pargraph4{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+
+}
+.heading1{
+    font-family: SF Pro Display;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 51px;
+letter-spacing: 0em;
+margin-top: 52px;
+
+}
+.pargraph5{
+    font-family: SF Pro Text;
+text-align: center;
+margin:20px;
+
+
+}
+.paragraph6{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight:800px;
+line-height: 34px;
+}
+.pargraph7{
+    font-family: New York Medium;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+}
+.list{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.pargraph8{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+margin-top:51px;
+
+}
+.pargraph9{
+    font-family: New York Medium;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.pargraph10{
+    font-family: SF Pro Text;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0.03em;
+text-align: left;
+
+font-family: Basis Grotesque Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 21px;
+letter-spacing: 0.03em;
+
+
+}
+.line1{
+border:2px dotted black;
+margin-top:32px;
+}
+.dis2{
+    display: flex;
+    margin-top: 32px;
+}
+.pargraph11{
+    font-family: New York Small;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+margin-left: 20px;
+}
+.pargraph12{
+    font-family: New York Extra Large;
+font-size: 44px;
+font-style: normal;
+font-weight: 700;
+line-height: 53px;
+letter-spacing: 0em;
+text-align: center;
+margin-top:73px
+}
+.pargraph13{
+    font-family: SF Pro Display;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+margin: 30px 50px;
+}
+.line2{
+    border:5px solid black;
+}
+.pargraph14{
+    font-family: New York Extra Large;
+font-size: 36px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin-top: 62px;
+}
+.pargraph15{
+    font-family: SF Pro Text;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+margin-top:18px;
+}
+.text{
+    margin:36px 30% ;
+    width:40%;
+     text-align:center ;
+}
+
+.dis4{
+    display: flex;
+    margin-top:30px ;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.heading{
+margin-top:100px ;
+text-align: center;
+}
+.pargraph16{
+   margin: 25px 50px;
+   text-align: center;
+}
+.adnan{
+    padding-left: 0px;
+    padding-right: 0px;
+}
